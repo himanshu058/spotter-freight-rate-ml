@@ -1,0 +1,27 @@
+# Python virtual environments
+.venv/
+.venv312/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE / editor files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Final local backup
+predictions.csv
